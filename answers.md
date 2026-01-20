@@ -56,3 +56,86 @@ See 'git help git' for an overview of the system.
 
 Answer4:
 
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	README.md
+	answers.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Answer5:
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	answers.md
+
+Answer6:
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
+
+Answer7:
+
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
+
+Answer8:
+
+commit e9cdf8c743c4e856624709804093f639093ea753 (HEAD -> master)
+Author: Nick <nb478823@ohio.edu>
+Date:   Tue Jan 20 11:16:27 2026 -0500
+
+    Initial commit
+
+Answer9:
+
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer10:
+
+The changes were not reflected in my local copy
+
+Answer11:
+
+! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/nickberes06/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer12:
+
+Yes, the changes were reflected locally
+
+Answer13:
+
+.  ..  .git  .gitignore  README.md
